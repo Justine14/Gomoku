@@ -1,5 +1,5 @@
 #Group 76 
-#Members: Navjeet Hundal, Ali Akbari, Justine Bui
+#Members: Ali Akbari, Justine Bui
 #Game: Gomoku 
 
 

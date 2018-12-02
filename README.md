@@ -1,2 +1,2 @@
 # Gomoku
-This game Gomoku was created as a project in Computer Science 231, using the Python language.
+This game, Gomoku, was created using the Python language.

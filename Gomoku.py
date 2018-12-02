@@ -1,18 +1,10 @@
-#Group 76 
-#Members: Ali Akbari, Justine Bui
-#Game: Gomoku 
-
-
-# DISCLAIMER: There is only one mode called easy mode where the player always wins.
-# Turn button icon color appears to not show change because the computer makes their turn fast.
-
 #The objective of the game is to connect five of your stones in a line to win.
 #The lines may be in any direction, that is, either vertically, horizontally, or 
 #diagonally. The stones in Gomoku are placed at the intersections of the rows and 
 #columns instead of the middle of each cell like a game of Connect 4, for example. The
 #board size of Gomoku ranges from 10x10 to 19x19. Many functions are placed within this
 #code to separate the turtle drawings, turtle writing, the saving and loading, the
-#game states, the winning states, the clicking, and the computer movement. Our code 
+#game states, the winning states, the clicking, and the computer movement. This code 
 #is laid out to define all imports first, then all of the turtles, then the window 
 #settings, the global variables, and then all of the functions required for the game.
 
@@ -952,3 +944,9 @@ def main():
 
 
 main()
+
+#Group 76 
+#Members: Ali Akbari, Justine Bui
+#Game: Gomoku 
+# DISCLAIMER: There is only one mode called easy mode where the player always wins.
+# Turn button icon color appears to not show change because the computer makes their turn fast.
